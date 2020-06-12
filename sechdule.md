@@ -18,4 +18,6 @@ Day66-75 Crawler (TODO)
 
 Day76-90: ML (TODO)
 
-Day90-100: Team (TODO)
+Day90-98: Team (Done)
+
+Day99-100: Interview (Later)
