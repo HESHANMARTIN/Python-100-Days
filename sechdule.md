@@ -1,4 +1,4 @@
-Day01-15: Fundamentals (done) \\
+Day01-15: Fundamentals (done) \n
 Day16-20: Advance (done)
 Day21-30: Web (Skip)
 Day31-35: Linux (TODO)
